@@ -10,6 +10,7 @@ splinter = "==0.10.0"
 Pillow = "==5.4.1"
 gunicorn = "*"
 django-heroku = "*"
+django-crispy-forms = "*"
 
 [dev-packages]
 
